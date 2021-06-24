@@ -8,4 +8,4 @@
 Digit4l-mi5t/Digit4l-mi5t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'M Digit4l-Mi5t, I like to game , I'v done my A+, and I'v spent a year in cisco networking academey and I'V spent a year at the first microsoft data centre academy in ireland, I'm studying python and I'm studying ethical hacking,I'm open to the idea of helping others if I can, 
+I'M Digit4l-Mi5t, 
